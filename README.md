@@ -1,4 +1,11 @@
 ## Hi there 👋
+- ✨ I'm a postgraduate student in Southwest University.
+- 🔭 I’m currently working on Graph Data Augmentation.
+- 🌱 I’m currently learning Graph Neural Networks (GNN).
+- 💬 Ask me about anything relevant to GNN.
+- 📫 How to reach me: [youan0529@email.swu.edu.cn](mailto:youan0529@email.swu.edu.cn)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: *Coming soon...*
 
 <!--
 **youan0529/youan0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
